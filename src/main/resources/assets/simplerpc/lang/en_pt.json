@@ -1,0 +1,91 @@
+{
+  "cl.config.clientconfig": "Simple RPC Ship Tuning ov Ye Own",
+
+  "cl.config.clientconfig.general": "General Ship Tuning",
+  "cl.config.clientconfig.init": "Raising Anchor RPC",
+  "cl.config.clientconfig.main_menu": "Dock RPC",
+  "cl.config.clientconfig.server_list": "Crew Finder RPC",
+  "cl.config.clientconfig.realmsscreensection": "Searching th' Distant Waters RPC",
+  "cl.config.clientconfig.join_game": "Setting Sail RPC",
+  "cl.config.clientconfig.single_player": "Lone Sailor RPC",
+  "cl.config.clientconfig.multi_player": "Crew RPC",
+  "cl.config.clientconfig.realmsgamesection": "Vast Beyond RPC",
+  "cl.config.clientconfig.generic": "Generic RPC",
+  "cl.config.clientconfig.variablesconfig": "Custom Riggin's",
+  "cl.config.clientconfig.dimension_overrides": "Explorer Overrides",
+
+  "cl.config.clientconfig.generalconfig": "General Ship Tuning",
+  "cl.config.clientconfig.generalconfig.discordid": "Mate Compass",
+  "cl.config.clientconfig.generalconfig.enabled": "Come Across Yer RPC",
+  "cl.config.clientconfig.generalconfig.debugging": "write th' Deep Below",
+  "cl.config.clientconfig.generalconfig.launcherintegration": "Get Letters From Mainland",
+
+  "cl.config.clientconfig.initsection": "Raising Anchor RPC",
+  "cl.config.clientconfig.initsection.enabled": "On Deck",
+  "cl.config.clientconfig.initsection.presence": "Mate be Doing",
+
+  "cl.config.clientconfig.mainmenusection": "Dock RPC",
+  "cl.config.clientconfig.mainmenusection.enabled": "On Deck",
+  "cl.config.clientconfig.mainmenusection.presence": "Mate be Doing",
+
+  "cl.config.clientconfig.serverlistsection": "Crew Finder RPC",
+  "cl.config.clientconfig.serverlistsection.enabled": "On Deck",
+  "cl.config.clientconfig.serverlistsection.presence": "Mate be Doing",
+
+  "cl.config.clientconfig.realmsscreensection.enabled": "On Deck",
+  "cl.config.clientconfig.realmsscreensection.presence": "Mate be Doing",
+
+  "cl.config.clientconfig.joingamesection": "Setting Sail RPC",
+  "cl.config.clientconfig.joingamesection.enabled": "On Deck",
+  "cl.config.clientconfig.joingamesection.presence": "Mate be Doing",
+
+  "cl.config.clientconfig.singleplayersection": "Lone Sailor RPC",
+  "cl.config.clientconfig.singleplayersection.enabled": "On Deck",
+  "cl.config.clientconfig.singleplayersection.presence": "Mate be Doing",
+
+  "cl.config.clientconfig.multiplayersection": "Crew RPC",
+  "cl.config.clientconfig.multiplayersection.enabled": "On Deck",
+  "cl.config.clientconfig.multiplayersection.presence": "Yer Mates be Doing",
+
+  "cl.config.clientconfig.realmsgamesection.enabled": "On Deck",
+  "cl.config.clientconfig.realmsgamesection.presence": "Yer Mates be Doing",
+
+  "cl.config.clientconfig.pausesection": "Avast RPC",
+  "cl.config.clientconfig.pausesection.enabled": "On Deck",
+  "cl.config.clientconfig.pausesection.presence": "Mate be Doing",
+
+  "cl.config.clientconfig.genericsection": "Generic RPC",
+  "cl.config.clientconfig.genericsection.enabled": "On Deck",
+  "cl.config.clientconfig.genericsection.presence": "Mate be Doing",
+
+  "cl.config.clientconfig.customvariablesconfig": "Custom Variables",
+  "cl.config.clientconfig.customvariablesconfig.enabled": "Enabled",
+  "cl.config.clientconfig.customvariablesconfig.variables": "Custom Variables",
+
+  "cl.config.clientconfig.dimensionsection": "Biome/Dimension Overrides",
+  "cl.config.clientconfig.dimensionsection.enabled": "Enabled",
+  "cl.config.clientconfig.dimensionsection.dimensions": "Overrides",
+
+  "cl.config.clientconfig.richpresencemodel": "Rich Presence Editor",
+  "cl.config.clientconfig.richpresencemodel.type": "Status Type",
+  "cl.config.clientconfig.richpresencemodel.description": "Description",
+  "cl.config.clientconfig.richpresencemodel.state": "State",
+  "cl.config.clientconfig.richpresencemodel.largeimagekey": "Large Image Keys",
+  "cl.config.clientconfig.richpresencemodel.largeimagetext": "Large Image Text",
+  "cl.config.clientconfig.richpresencemodel.smallimagekey": "Small Image Keys",
+  "cl.config.clientconfig.richpresencemodel.smallimagetext": "Small Image Text",
+  "cl.config.clientconfig.richpresencemodel.streamingactivityurl": "Streaming Activity URL",
+  "cl.config.clientconfig.richpresencemodel.buttons": "Buttons",
+
+  "cl.config.clientconfig.buttonwrapper": "Button Editor",
+  "cl.config.clientconfig.buttonwrapper.label": "Button Label",
+  "cl.config.clientconfig.buttonwrapper.url": "Button URL",
+
+  "cl.config.clientconfig.customvariable": "Variable Editor",
+  "cl.config.clientconfig.customvariable.name": "Variable Name",
+  "cl.config.clientconfig.customvariable.value": "Variable Value",
+
+  "cl.config.clientconfig.dimension": "Dimension/Biome Override",
+  "cl.config.clientconfig.dimension.name": "Name",
+  "cl.config.clientconfig.dimension.presence": "Status"
+}
